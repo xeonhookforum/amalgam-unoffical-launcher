@@ -1,0 +1,13 @@
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AmalgamLauncherUnoffical.exe.config
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AmalgamLauncherUnoffical.exe
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AmalgamLauncherUnoffical.pdb
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MDriven.Net.Http.dll
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AmalgamLauncherUnoffical.Properties.Resources.resources
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AmalgamLauncherUnoffical.exe
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AmalgamLauncherUnoffical.pdb
+C:\Users\Leon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AmalgamLauncherUnoffical.exe.config
